@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Família</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup/familia/index.php/familia2</link>
+		<lastBuildDate>Sat, 20 Apr 2024 22:42:31 -0300</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/familia/index.php/familia2?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>Família</title>
+			<link>http://backup/familia/index.php/familia2/familia</link>
+			<guid isPermaLink="true">http://backup/familia/index.php/familia2/familia</guid>
+			<description><![CDATA[<p> </p>
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://backup/familia/images/familia.webp" width="1000" height="810" /></p>
+<p>Alguns relativos especificamente à família Ferreira de Sousa. Iniciando com um pequeno questionário.</p>
+<p><a href="http://backup/familia/familia/questionario.html" target="_blank" rel="noopener">Questionário</a></p>
+<p> </p>]]></description>
+			<category>Família</category>
+			<pubDate>Wed, 31 Jan 2024 02:32:25 -0300</pubDate>
+		</item>
+		<item>
+			<title>Família FS</title>
+			<link>http://backup/familia/index.php</link>
+			<guid isPermaLink="true">http://backup/familia/index.php</guid>
+			<description><![CDATA[<p style="text-align: center;"><strong>Grande família e unida, graças a Deus</strong></p>
+<p style="text-align: left;"><strong><a href="http://backup/familia/index.php/audios2">Áudios</a>  <a href="http://backup/familia/index.php/fotos">Fotos</a></strong><strong> <a href="http://backup/familia/index.php/familia2">Família</a>  <a href="http://backup/familia/index.php/extras">Extra</a>  <a href="http://backup/familia/index.php/blog">Blog</a><br /></strong></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://backup/familia/images/familia.jpg" width="900" height="674" /></p>
+<p> </p>]]></description>
+			<category>Família</category>
+			<pubDate>Tue, 30 Jan 2024 17:53:51 -0300</pubDate>
+		</item>
+	</channel>
+</rss>

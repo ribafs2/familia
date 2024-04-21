@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-br">
+	<title type="text">Família</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://backup"/>
+	<id>http://backup/familia/index.php/familia2</id>
+	<updated>2024-04-20T22:42:31-03:00</updated>
+	<author>
+		<name>Família Ferreira de Sousa</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://backup/familia/index.php/familia2?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Família</title>
+		<link rel="alternate" type="text/html" href="http://backup/familia/index.php/familia2/familia"/>
+		<published>2024-01-31T02:32:25-03:00</published>
+		<updated>2024-01-31T02:32:25-03:00</updated>
+		<id>http://backup/familia/index.php/familia2/familia</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://backup/familia/images/familia.webp&quot; width=&quot;1000&quot; height=&quot;810&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Alguns relativos especificamente à família Ferreira de Sousa. Iniciando com um pequeno questionário.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://backup/familia/familia/questionario.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Questionário&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://backup/familia/images/familia.webp&quot; width=&quot;1000&quot; height=&quot;810&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Alguns relativos especificamente à família Ferreira de Sousa. Iniciando com um pequeno questionário.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://backup/familia/familia/questionario.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Questionário&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Família" />
+	</entry>
+	<entry>
+		<title>Família FS</title>
+		<link rel="alternate" type="text/html" href="http://backup/familia/index.php"/>
+		<published>2024-01-30T17:53:51-03:00</published>
+		<updated>2024-01-30T17:53:51-03:00</updated>
+		<id>http://backup/familia/index.php</id>
+		<author>
+			<name>Ribamar FS</name>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Grande família e unida, graças a Deus&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://backup/familia/index.php/audios2&quot;&gt;Áudios&lt;/a&gt;  &lt;a href=&quot;http://backup/familia/index.php/fotos&quot;&gt;Fotos&lt;/a&gt;&lt;/strong&gt;&lt;strong&gt; &lt;a href=&quot;http://backup/familia/index.php/familia2&quot;&gt;Família&lt;/a&gt;  &lt;a href=&quot;http://backup/familia/index.php/extras&quot;&gt;Extra&lt;/a&gt;  &lt;a href=&quot;http://backup/familia/index.php/blog&quot;&gt;Blog&lt;/a&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://backup/familia/images/familia.jpg&quot; width=&quot;900&quot; height=&quot;674&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Grande família e unida, graças a Deus&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;http://backup/familia/index.php/audios2&quot;&gt;Áudios&lt;/a&gt;  &lt;a href=&quot;http://backup/familia/index.php/fotos&quot;&gt;Fotos&lt;/a&gt;&lt;/strong&gt;&lt;strong&gt; &lt;a href=&quot;http://backup/familia/index.php/familia2&quot;&gt;Família&lt;/a&gt;  &lt;a href=&quot;http://backup/familia/index.php/extras&quot;&gt;Extra&lt;/a&gt;  &lt;a href=&quot;http://backup/familia/index.php/blog&quot;&gt;Blog&lt;/a&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://backup/familia/images/familia.jpg&quot; width=&quot;900&quot; height=&quot;674&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+		<category term="Família" />
+	</entry>
+</feed>

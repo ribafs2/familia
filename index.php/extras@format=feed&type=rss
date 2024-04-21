@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Extras</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup/familia/index.php/extras</link>
+		<lastBuildDate>Sat, 20 Apr 2024 22:42:31 -0300</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/familia/index.php/extras?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>Utilidades</title>
+			<link>http://backup/familia/index.php/extras/utilidades2</link>
+			<guid isPermaLink="true">http://backup/familia/index.php/extras/utilidades2</guid>
+			<description><![CDATA[<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://backup/familia/images/canivete.webp" width="480" height="480" /></p>
+<p>Confira vários softwares úteis</p>
+<p><a href="http://backup/familia/utilidades" target="_blank" rel="noopener">Veja</a></p>
+<p> </p>]]></description>
+			<category>Extras</category>
+			<pubDate>Tue, 30 Jan 2024 21:49:54 -0300</pubDate>
+		</item>
+		<item>
+			<title>Educativos</title>
+			<link>http://backup/familia/index.php/extras/educativos2</link>
+			<guid isPermaLink="true">http://backup/familia/index.php/extras/educativos2</guid>
+			<description><![CDATA[<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://backup/familia/images/educativos.jpg" width="1140" height="584" /></p>
+<h3>Diversos jogos e programas educativos</h3>
+<p>ATENÇÃO: alguns funcionam apenas em computadores, como os do alfabeto e dos algarismos.</p>
+<p><a href="http://backup/familia/educativos/" target="_blank" rel="noopener">Confira</a></p>]]></description>
+			<category>Extras</category>
+			<pubDate>Tue, 30 Jan 2024 21:35:42 -0300</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Áudios</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup/familia/index.php/audios2</link>
+		<lastBuildDate>Sat, 20 Apr 2024 22:42:24 -0300</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/familia/index.php/audios2?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>Áudios</title>
+			<link>http://backup/familia/index.php/audios2/audios</link>
+			<guid isPermaLink="true">http://backup/familia/index.php/audios2/audios</guid>
+			<description><![CDATA[<p>ẽ</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://backup/familia/images/tiagoelias.png" width="1488" height="725" /></p>
+<p>Quando meus dois filhos, Tiago e Elias, ainda eram bebês, eu gravei as vozes/balbúcios deles. Na época eu tinha um micro de 8 bits, ligado a um gravador cassete. Gravei em fitas K7 nesse gravador e depois converti para  os micros tipo PC.</p>
+<p>Algumas delas estão aqui</p>
+<p><a href="http://backup/familia/audios" target="_blank" rel="noopener">Áudios</a></p>]]></description>
+			<category>Audios</category>
+			<pubDate>Tue, 30 Jan 2024 22:17:49 -0300</pubDate>
+		</item>
+	</channel>
+</rss>

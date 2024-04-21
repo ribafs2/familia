@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[]]></description>
+		<link>http://backup</link>
+		<lastBuildDate>Sat, 20 Apr 2024 22:42:24 -0300</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://backup/familia/index.php/fotos?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<item>
+			<title>img15</title>
+			<link>http://backup/familia/index.php/fotos/65-memorias/66-memorias</link>
+			<guid isPermaLink="true">http://backup/familia/index.php/fotos/65-memorias/66-memorias</guid>
+			<description><![CDATA[<div><a href="http://backup/familia/index.php/fotos/65-memorias/66-memorias"><img src="http://backup/familia/images/phocagallery/memorias/thumbs/phoca_thumb_m_img15.png" border="0" /></a></div>]]></description>
+			<category>memorias</category>
+			<pubDate>Thu, 01 Feb 2024 04:02:56 -0300</pubDate>
+		</item>
+		<item>
+			<title>img16</title>
+			<link>http://backup/familia/index.php/fotos/65-memorias/66-memorias</link>
+			<guid isPermaLink="true">http://backup/familia/index.php/fotos/65-memorias/66-memorias</guid>
+			<description><![CDATA[<div><a href="http://backup/familia/index.php/fotos/65-memorias/66-memorias"><img src="http://backup/familia/images/phocagallery/memorias/thumbs/phoca_thumb_m_img16.png" border="0" /></a></div>]]></description>
+			<category>memorias</category>
+			<pubDate>Thu, 01 Feb 2024 04:02:56 -0300</pubDate>
+		</item>
+		<item>
+			<title>img17</title>
+			<link>http://backup/familia/index.php/fotos/65-memorias/66-memorias</link>
+			<guid isPermaLink="true">http://backup/familia/index.php/fotos/65-memorias/66-memorias</guid>
+			<description><![CDATA[<div><a href="http://backup/familia/index.php/fotos/65-memorias/66-memorias"><img src="http://backup/familia/images/phocagallery/memorias/thumbs/phoca_thumb_m_img17.png" border="0" /></a></div>]]></description>
+			<category>memorias</category>
+			<pubDate>Thu, 01 Feb 2024 04:02:56 -0300</pubDate>
+		</item>
+		<item>
+			<title>img18</title>
+			<link>http://backup/familia/index.php/fotos/65-memorias/66-memorias</link>
+			<guid isPermaLink="true">http://backup/familia/index.php/fotos/65-memorias/66-memorias</guid>
+			<description><![CDATA[<div><a href="http://backup/familia/index.php/fotos/65-memorias/66-memorias"><img src="http://backup/familia/images/phocagallery/memorias/thumbs/phoca_thumb_m_img18.png" border="0" /></a></div>]]></description>
+			<category>memorias</category>
+			<pubDate>Thu, 01 Feb 2024 04:02:56 -0300</pubDate>
+		</item>
+		<item>
+			<title>img19</title>
+			<link>http://backup/familia/index.php/fotos/65-memorias/66-memorias</link>
+			<guid isPermaLink="true">http://backup/familia/index.php/fotos/65-memorias/66-memorias</guid>
+			<description><![CDATA[<div><a href="http://backup/familia/index.php/fotos/65-memorias/66-memorias"><img src="http://backup/familia/images/phocagallery/memorias/thumbs/phoca_thumb_m_img19.png" border="0" /></a></div>]]></description>
+			<category>memorias</category>
+			<pubDate>Thu, 01 Feb 2024 04:02:56 -0300</pubDate>
+		</item>
+	</channel>
+</rss>
